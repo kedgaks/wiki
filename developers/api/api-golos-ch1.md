@@ -349,12 +349,12 @@ _**get\_miner\_queue**_
 
 Историческая справка
 
-* [Статья № 1](https://golos.io/ru--otkrytyij-kod/@asuleymanov/opisanie-api-golos-chast-1)
+* [Статья № 1](https://golos.id/ru--otkrytyij-kod/@asuleymanov/opisanie-api-golos-chast-1)
   * Начало разбора команд из раздела Database\_Api
-* [Статья № 2](https://golos.io/ru--otkrytyij-kod/@asuleymanov/opisani-golosapi-chast-2)
+* [Статья № 2](https://golos.id/ru--otkrytyij-kod/@asuleymanov/opisani-golosapi-chast-2)
   * Окончание разбора команд из раздела Database\_Api
-* [Статья № 3](https://golos.io/ru--otkrytyij-kod/@asuleymanov/opisanie-golosapi-chast-3)
+* [Статья № 3](https://golos.id/ru--otkrytyij-kod/@asuleymanov/opisanie-golosapi-chast-3)
   * Разбор команд из разделов Market\_History\_API и Follow\_API
-* [Статья №4](https://golos.io/ru--otkrytyij-kod/@asuleymanov/opisani-golosapi-chast-4)
+* [Статья №4](https://golos.id/ru--otkrytyij-kod/@asuleymanov/opisani-golosapi-chast-4)
   * Команды из раздела Network\_Brodcast\_API и Login\_API
 

@@ -33,7 +33,7 @@ remote: Total 22425 (delta 132), reused 177 (delta 76), pack-reused 22152
 
 Нам нужно будет переключить на нужную нам ветку. В настоящий момент меня интересует версия 0.17.0.
 
-![](https://imgp.golos.io/0x0/https://s3.postimg.org/83dc9q33n/047.png)
+![](https://s3.postimg.cc/83dc9q33n/047.png)
 
 Как видно на скриншоте, есть branch под названием **golos-v0.17.0**. Вот на нее нам и надо переключиться. Для этого в корне папки с исходниками выполним следующую команду
 
@@ -60,7 +60,7 @@ $ nano libraries/protocol/include/steemit/protocol/config.hpp
 ```
 
 И ищу переменные со словам withdraw и почти сразу нахожу нужные мне.  
-![](https://imgp.golos.io/0x0/https://s1.postimg.org/4vryqapwv/048.png)
+![](https://s1.postimg.cc/4vryqapwv/048.png)
 
 Меня интересует конкретно вот эта строка
 
@@ -91,7 +91,7 @@ $ docker build . -f docker/Dockerfile-testnet -t testnet-17
 
 Спустя какое то время мы имеем готовый образ докера
 
-![](https://imgp.golos.io/0x0/https://s4.postimg.org/7rt17rs0t/049.png)
+![](https://s4.postimg.cc/7rt17rs0t/049.png)
 
 ## Запуск
 
@@ -111,7 +111,7 @@ $ docker run -it -p 127.0.0.1:9090:8090 -d --name testnet -t testnet-17
 $ docker logs testnet
 ```
 
-![](https://imgp.golos.io/0x0/https://s18.postimg.org/uo28fw5bd/050.png)
+![](https://s18.postimg.cc/uo28fw5bd/050.png)
 
 ```text
 initminer public key: GLS58g5rWYS3XFTuGDSxLVwiBiPLoAyCZgn6aB9Ueh8Hj5qwQA3r6
@@ -158,7 +158,7 @@ $ docker start testnet
 $ docker logs testnet
 ```
 
-![](https://imgp.golos.io/0x0/https://s3.postimg.org/kirac52ub/051.png)
+![](https://s3.postimg.cc/kirac52ub/051.png)
 
 Дождемся 17-го хардфорка, после чего можно пользоваться тестнетом
 
