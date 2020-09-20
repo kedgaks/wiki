@@ -71,7 +71,7 @@ wget -P ~/blockchain --user=u237308-sub1 --password=3oOk8579Ff8ceKdy https://u23
 
 {% tab title="Финляндия 1" %}
 ```
-wget -P ~/blockchain --user=u237310-sub1 --password=wTfnAGV6HTJC4D2m https://u237310-sub1.your-storagebox.de/block_log.index https://u237310-sub1.your-storagebox.de/block_log
+wget -P ~/blockchain --user=u243074-sub1 --password=IIoEbrExsx57u0C3 https://u243074-sub1.your-storagebox.de/block_log.index https://u243074-sub1.your-storagebox.de/block_log
 
 ```
 {% endtab %}
