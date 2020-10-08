@@ -78,7 +78,7 @@ wget -P ~/blockchain --user=u243168-sub1 --password=U3b2CiYnOAGfDwWb https://u24
 
 {% tab title="Германия 2" %}
 ```text
-wget -P ~/blockchain --user=u229207-sub1 --password=dbxnfJ9nWlbi6XZE https://u229207-sub1.your-storagebox.de/block_log.index https://u229207-sub1.your-storagebox.de/block_log
+wget -P ~/blockchain --user=u223265-sub1 --password=tXjXAmNBcu8PmmbQ https://u223265-sub1.your-storagebox.de/block_log.index https://u223265-sub1.your-storagebox.de/block_log
 
 ```
 {% endtab %}
