@@ -7,7 +7,7 @@
 {% hint style="info" %}
 Обновляемый делегатами [список ](https://golos.id/nodes)API и SEED нод.
 
-Скомпилированные бинарники для v0.23.0:
+Скомпилированные бинарники актуальной версии БЧ:
 
 * golosd: [https://files.golos.id/golosd](https://files.golos.id/golosd)
 * cli\_wallet: [https://files.golos.id/cli\_wallet](https://files.golos.id/cli_wallet)

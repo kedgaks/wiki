@@ -336,7 +336,7 @@ sudo docker stop feed && sudo docker rm feed
 Удаляем образы для ноды и скрипта прайсфида
 
 ```text
-sudo docker rmi vizlex/golos && sudo docker rmi vvk123/golos-witness-tools
+sudo docker rmi golosblockchain/golos && sudo docker rmi vvk123/golos-witness-tools
 ```
 
 Запускаем контейнер с новой версией
