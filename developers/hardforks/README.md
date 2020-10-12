@@ -9,4 +9,5 @@
 * [HF20: Устранение критического бага](hf20_release.md)
 * [HF22: Новые возможности](hf22_release.md)
 * [HF23: Новые возможности](hf23_release.md)
+* [HF24: Новые возможности](hf24-novye-vozmozhnosti.md)
 
