@@ -2,7 +2,7 @@
 
 Ряд параметров блокчейна являются голосуемыми, т.е. делегаты подают свои значения, из которых потом формируются некие консенсусные значения.
 
-Медианные параметры сети можно посмотреть на [https://explorer.golos.id](https://explorer.golos.id) или здесь [https://ropox.app/steemjs/api/database\_api/get\_chain\_properties](https://ropox.app/steemjs/api/database_api/get_chain_properties)
+Медианные параметры сети доступны на [https://explorer.golos.id](https://explorer.golos.id) или на [https://api.dpos.space/steemjs/api/database\_api/get\_dynamic\_global\_properties](https://api.dpos.space/steemjs/api/database_api/get_dynamic_global_properties)
 
 ## Курс GBG/GOLOS
 
@@ -152,7 +152,7 @@
 
 ### worker\_request\_creation\_fee
 
-Размер платы за подачу заявки воркером.
+Размер комиссии в GBG за подачу заявки воркером.
 
 ### worker\_request\_approve\_min\_percent
 
@@ -187,4 +187,14 @@
 ### min\_invite\_balance
 
 Минимальный баланс инвайта/чека для создания.
+
+## Параметры с 24 ХФ
+
+### asset\_creation\_fee
+
+Размер комиссии в GBG за создание ассета/тикера токена в 5 символов и более \(4 символа x10 от параметра, 3 символа x50 от параметра\).
+
+### invite\_transfer\_interval\_sec
+
+Защита от спама трансферов с чека на чек, пауза \(в секундах\) между такими переводами.
 

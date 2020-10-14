@@ -301,6 +301,13 @@ update_chain_properties ЛОГИН {"claim_idleness_time":86400, "min_invite_bal
 
 ```
 {% endtab %}
+
+{% tab title="24 ХФ" %}
+```
+update_chain_properties ЛОГИН {"asset_creation_fee":"2000.000 GBG", "invite_transfer_interval_sec":60} true
+
+```
+{% endtab %}
 {% endtabs %}
 
 ## **Обновление ноды**
