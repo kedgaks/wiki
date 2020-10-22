@@ -7,7 +7,7 @@
 
 ### Способы регистрации:
 
-* **Сайт** [Golos.id](https://golos.id) \(зеркало [golos.in](https://golos.in), а также [golos.today](https://golos.today)\)
+* **Сайт** [golos.id](https://golos.id) или [golos.in](https://golos.in)
 * **Через ВК** - [vk.com/reg\_golos\_ru](https://vk.com/reg_golos_ru) 
 * **Страница на** [golos.cf](https://golos.cf/reg/)
 

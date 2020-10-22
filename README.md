@@ -2,9 +2,10 @@
 
 [![](https://raw.githubusercontent.com/golos-blockchain/wiki/master/golos_logo.png)](https://golos.id/)
 
-Здесь точка сбора и распространения знаний по проекту **медиаблокчейн Голос**. Веб-клиенты [golos.id](https://golos.id/) \(зеркало [golos.today](https://golos.today/)\) и [golos.in](https://golos.in/).   
+Эта wiki - точка сбора знаний по **блокчейну Голос**.   
+Основные веб-клиенты [golos.id](https://golos.id/) и [golos.in](https://golos.in/). Доступен и [golos.today](https://golos.today/), который выполняет роль тестового клиента \(обновляется в первую очередь, но его работа возможна с ошибками\).   
   
-Если для каких-то целей нужны альтернативные, есть [expertgroup.org](https://expertgroup.org/) \(а также [http://goloszrorrdctlwf.onion](http://goloszrorrdctlwf.onion) в сети TOR и [http://gol.oss](http://gol.oss) при использовании децентрализованных DNS от [OpenNIC](https://www.opennic.org/)\).
+Из альтернативных есть [expertgroup.org](https://expertgroup.org/), в сети TOR [goloszrorrdctlwf.onion](http://goloszrorrdctlwf.onion), а также [gol.oss](http://gol.oss), который доступен при использовании децентрализованных DNS от [OpenNIC](https://www.opennic.org/).
 
 Начните свое изучение Голоса с раздела для [Пользователей](users/welcome.md).
 
