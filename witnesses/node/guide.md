@@ -54,7 +54,7 @@ wget -P ~/home/blockchain --user=u237308-sub1 --password=3oOk8579Ff8ceKdy https:
 
 {% tab title="Финляндия 1" %}
 ```
-wget -P ~/home/blockchain --user=u245628-sub1 --password=fBfSXPzp8CaG1EwX https://u245628-sub1.your-storagebox.de/block_log.index https://u245628-sub1.your-storagebox.de/block_log
+wget -P ~/home/blockchain --user=u245960-sub1 --password=7USy9jS9GS2Yka3c https://u245960-sub1.your-storagebox.de/block_log.index https://u245960-sub1.your-storagebox.de/block_log
 
 ```
 {% endtab %}
@@ -86,7 +86,7 @@ wget -P ~/home/blockchain --user=u237308-sub1 --password=3oOk8579Ff8ceKdy https:
 
 {% tab title="Финляндия 1" %}
 ```
-wget -P ~/home/blockchain --user=u245628-sub1 --password=fBfSXPzp8CaG1EwX https://u245628-sub1.your-storagebox.de/block_log.index https://u245628-sub1.your-storagebox.de/block_log https://u245628-sub1.your-storagebox.de/shared_memory.bin
+wget -P ~/home/blockchain --user=u245960-sub1 --password=7USy9jS9GS2Yka3c https://u245960-sub1.your-storagebox.de/block_log.index https://u245960-sub1.your-storagebox.de/block_log https://u245960-sub1.your-storagebox.de/shared_memory.bin
 
 ```
 {% endtab %}
