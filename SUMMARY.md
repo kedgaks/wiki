@@ -7,7 +7,7 @@
 * [Начни отсюда](users/welcome.md)
 * [Способы регистрации](users/registration.md)
 * [Полезные посты](users/posts/README.md)
-  * [Внутренняя биржа](users/posts/market.md)
+  * [Внутренняя биржа](https://golos.id/ru--golos/@allforyou/torguem-na-vnutrennei-birzhe-golosa)
   * [Сервис поиска по БЧ](users/posts/golos-history.md)
   * [Кошелёк и ключи](users/posts/wallet.md)
 * [Вопросы и ответы](users/faq.md)
@@ -46,6 +46,7 @@
   * [Как объединять операции в одну транзакцию](developers/howto/ops-merging.md)
   * [Кэширование API](developers/howto/api-cache.md)
   * [Пример запуска тестнета](developers/howto/testnet.md)
+  * [Примеры команд к cli\_wallet](https://golos.id/ru--golos/@lindsay/dlya-delegatov-i-derzhatelei-nod-rabochie-komandy-i-metody-cliwallet)
 
 ## Делегатам <a id="witnesses"></a>
 

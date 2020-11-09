@@ -7,8 +7,8 @@
 
 ### Способы регистрации:
 
-* **Сайт** [golos.id](https://golos.id) или [golos.in](https://golos.in)
-* **Через ВК** - [vk.com/reg\_golos\_ru](https://vk.com/reg_golos_ru) 
+* **Сайт** [golos.id](https://golos.id) или [golos.in](https://golos.in) \* если у вас нет почты @gmail.com, можно получить инвайт в телеграмм-чате [https://t.me/golos\_id](https://t.me/golos_id) 
+* **Через ВК** - [vk.com/reg\_golos\_ru](https://vk.com/reg_golos_ru)  
 * **Страница на** [golos.cf](https://golos.cf/reg/)
 
   Зайдите на страницу, укажите логин и активный ключ регистратора, желаемые логин и пароль для нового аккаунта. Отправка или получение смс не требуется.
