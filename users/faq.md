@@ -45,7 +45,11 @@
 
 На данный момент проект поддержан биржами: RuDEX, Livecoin, Hive-Engine, Steem-Engine, в процессе листинг и на других биржах. Актуальный список доступен на [https://golos.id/exchanges](https://golos.id/exchanges)
 
-Также возможен обмен токенов Голос на Золотые через [внутренний рынок](https://golos.id/market).
+Возможен обмен токенов Голос на внутренний токен YMRUB, который в свою очередь один к одному
+меняется на рубли платежной системы ЮMoney (ex-Яндекс.Деньги).
+Делается это через через [внутренний рынок](https://golos.id/market/GOLOS/YMRUB).
+Подробнее [тут](https://golos.id/ru--golos/@ecurrex-ru/vvod-i-vyvod-rublei-na-golos) и [тут](https://golos.id/ru--kriptovalyuty/@ultrastod/manual-po-tokenu-ymrub-okno-v-fiat-i-obratno).
+
 
 ## **Как обеспечивается работоспособность сети?**
 
